@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923783146459",
+    "project_id": "prueba-c813b",
+    "storage_bucket": "prueba-c813b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923783146459:android:b6c47b66f5d469ef23d5fe",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArxDEpo9FfaMRkuBWnOPZMS3lq8ZGG7JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923783146459:android:5fc5c6ee44b6053123d5fe",
+        "android_client_info": {
+          "package_name": "com.example.mitienda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArxDEpo9FfaMRkuBWnOPZMS3lq8ZGG7JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
